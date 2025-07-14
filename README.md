@@ -5,7 +5,6 @@ My name is Chelsea Ani, I'm new to programming, currently learning Front-end Dev
 - 🎬 I'm a Video Editor
 - 💞️ I’m looking to collaborate as intern with development companies
 - 📫 contact me on anichelsea2003@gmail.com
-- 😄 Pronouns: she/her
 
   
 <!---
